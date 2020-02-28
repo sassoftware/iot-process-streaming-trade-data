@@ -5,17 +5,13 @@
 In this repository, you'll learn how to process streaming trade data using SAS Event Stream Processing (ESP) 6.2.
 
 **Editing with ESP Studio**
-
-![](Trades_studio.mp4)  
+[![Viewing and Editing the Model Using SAS ESP Studio](/images/editingESPStudio.png)](https://players.brightcove.net/3665946608001/default_default/index.html?videoId=6136643269001 "Viewing and Editing the Model Using SAS ESP Studio") 
 
 **Editing with a Text Editor**
-
-![](Trades_xml.mp4)
+[![Viewing and Editing the Model Using a Text Editor](/images/editingTextEditor.png)](https://players.brightcove.net/3665946608001/default_default/index.html?videoId=6136650141001 "Viewing and Editing the Model Using a Text Editor")
 
 **Executing, Publishing, and Subscribing**
-
-![](Trades_execute.mp4)
-
+[![Executing the Model and Subscribing to the Output](/images/executingPublishingSubscribing.png)](https://players.brightcove.net/3665946608001/default_default/index.html?videoId=6136645820001 "Executing the Model and Subscribing to the Output")
 
 ## Overview
 
